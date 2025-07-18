@@ -1,0 +1,11 @@
+torch==1.13.1
+torchvision==0.14.1
+Pillow==9.4.0
+numpy==1.23.5
+opencv-python
+scikit-image
+scipy
+Flask
+flask-cors
+mysql-connector-python
+requests
