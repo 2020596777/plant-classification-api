@@ -1,5 +1,5 @@
-torch==1.13.1
-torchvision==0.14.1
+torch==2.7.1
+torchvision==0.15.2
 Pillow==9.4.0
 numpy==1.23.5
 opencv-python
@@ -9,3 +9,4 @@ Flask
 flask-cors
 mysql-connector-python
 requests
+wikipedia
